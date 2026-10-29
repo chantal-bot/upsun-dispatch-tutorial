@@ -153,7 +153,7 @@ final class ArticleRepository
         );
     }
 
-    /**
+  /**
  * Estimated reading time in whole minutes, rounding any partial minute
  * up to a full minute (minimum 1).
  */
